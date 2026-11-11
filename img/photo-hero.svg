@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Заглушка: фото специалиста">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7ecdf"/>
+      <stop offset="1" stop-color="#f4ede1"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#bg)"/>
+  <rect x="10" y="10" width="460" height="580" rx="12" fill="none" stroke="#7d8f69" stroke-width="2" stroke-dasharray="10 8"/>
+  <!-- силуэт -->
+  <circle cx="240" cy="250" r="70" fill="none" stroke="#7d8f69" stroke-width="3"/>
+  <path d="M120 470c0-66 54-120 120-120s120 54 120 120" fill="none" stroke="#7d8f69" stroke-width="3"/>
+  <text x="240" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#66754f">Живое фото специалиста</text>
+  <text x="240" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#756d64">замените файл img/photo-hero.svg</text>
+  <text x="240" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#756d64">(WebP, ~800×1000)</text>
+</svg>

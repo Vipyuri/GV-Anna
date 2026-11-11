@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Заглушка: скан второго сертификата по лактации">
+  <rect width="400" height="300" fill="#f4ede1"/>
+  <rect x="18" y="14" width="364" height="272" rx="8" fill="#ffffff" stroke="#d9cdb8"/>
+  <rect x="60" y="44" width="280" height="14" rx="7" fill="#7d8f69" opacity=".5"/>
+  <rect x="90" y="80" width="220" height="8" rx="4" fill="#c9bfae"/>
+  <rect x="70" y="100" width="260" height="8" rx="4" fill="#c9bfae"/>
+  <rect x="110" y="120" width="180" height="8" rx="4" fill="#c9bfae"/>
+  <rect x="70" y="160" width="120" height="8" rx="4" fill="#c9bfae"/>
+  <rect x="70" y="180" width="180" height="8" rx="4" fill="#c9bfae"/>
+  <circle cx="300" cy="220" r="26" fill="none" stroke="#7d8f69" stroke-width="2" opacity=".6"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#756d64">Скан: сертификат по лактации II</text>
+</svg>

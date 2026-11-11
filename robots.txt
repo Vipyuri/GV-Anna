@@ -1,0 +1,6 @@
+# Замените ivanova-gv.ru на реальный домен
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://ivanova-gv.ru/sitemap.xml
